@@ -9,6 +9,8 @@ public class Newupdate {
 	{
 		System.out.println("hi");
 		System.out.println("hello");
+		System.out.println("REMOVE");
 		System.out.println("new ");
+
 	}
 	}
